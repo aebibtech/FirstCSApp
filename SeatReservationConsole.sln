@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatReservationConsole", "SeatReservationConsole\SeatReservationConsole.csproj", "{9EC1E675-6698-477A-858C-38250891E113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC1E675-6698-477A-858C-38250891E113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC1E675-6698-477A-858C-38250891E113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC1E675-6698-477A-858C-38250891E113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC1E675-6698-477A-858C-38250891E113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7A2B03-1A7A-458F-8913-A72A273FA432}
+	EndGlobalSection
+EndGlobal
